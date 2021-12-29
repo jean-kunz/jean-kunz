@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jean-kunz
 - 👀 I’m interested in machine learning and enterprise architecture
-- 🌱 I’m currently learning deep learning 
+- 🌱 I’m currently improving my skills and knowledge in deep learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
